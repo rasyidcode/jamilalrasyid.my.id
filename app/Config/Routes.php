@@ -30,8 +30,18 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
-$routes->get('/', 'Home::index');
+// $routes->get('/', 'Home::index');
+// $routes->match(['get', 'post'], 'news/create', 'News::create');
+// $routes->get('news/(:segment)', 'News::view/$1');
+// $routes->get('news', 'News::index');
+// $routes->get('(:any)', 'Pages::view/$1');
+// $routes->get('/', 'Pages2::index');
+// $routes->get('/blog/create', 'Blog::create');
+// $routes->get('/post/(:any)', 'Blog::post/$1');
+// $routes->get('(:any)', 'Pages2::showme/$1');
 
+// jamilalrasyid.my.id routing
+$routes->get('/', 'MySite::index');
 /**
  * --------------------------------------------------------------------
  * Additional Routing

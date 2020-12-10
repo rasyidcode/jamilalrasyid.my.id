@@ -1,6 +1,38 @@
 # jamilalrasyid.my.id
 My New Website
 
+## To Do
+- [x] Init Project
+- [x] Use CI4 To Build The Website
+- [x] Use Bootstrap Free Templates for the Initiation
+- [ ] Make the content
+  - Main Hero
+  - Portfolio
+    - Simple Program Code (Kotlin Android)
+    - Cnn Indonesia API (PHP)
+    - DevHumor API (PHP)
+    - Sistem Informasi Posyandu (Android)
+    - Google Calc (Flutter)
+    - Elshadai Mulia Pekanbaru (PHP | Laravel)
+    - Kumpulan Lirik Lagu Nasional (Flutter)
+    - Playday TV Web (Laravel)
+    - Dota 2 Tracker (Flutter)
+    - DNet (Kotlin Android)
+    - Ragunan Zoo App (Kotlin & Ionic)
+    - TDBangarna (PHP | Laravel)
+    - Event LPSK (PHP | Slim)
+  - About
+    - My Bio
+    - Working Experiences
+    - Skills
+    - My Latest Activity
+    - Instagram Posts
+    - Facebook Posts
+    - Twitter Posts
+    - My Gallery
+  - Contact me
+- [ ] Deploy to server
+
 ## What's inside of this Website?
 - Landing Page
   - Show My Bio
@@ -22,7 +54,3 @@ My New Website
   - Skills CRUD
   - Bio CRUD
   - Password Keeper
-
-## To Do
-- [ ] Init Project
-- [ ] Use CI4 To Build The Website
